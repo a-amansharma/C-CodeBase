@@ -1,1 +1,1 @@
-# HackerRank-C-programs
+# C-programs

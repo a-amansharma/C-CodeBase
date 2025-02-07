@@ -16,4 +16,3 @@ int main() {
         printf("The largest number is : %d",b);
     }
     return 0;
-}
