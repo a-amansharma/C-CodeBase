@@ -5,7 +5,5 @@ int main() {
   scanf("%d",&n);
   n=n&(-n);
   printf("%d",n);
-
-  
     return 0;
 }
