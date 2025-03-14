@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "Bitwise_Extract the i-th Bit.C": "cpp"
+        "Bitwise_Extract the i-th Bit.C": "cpp",
+        "Bitwise_Maximum Without Comparison Operators.C": "cpp"
     }
 }
